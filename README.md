@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZrdXVrMXE2b3ZrdWV3dXB1bnh6bmplbTV4N3R1cDRldGExNXc2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9sv3y0/giphy.gif" alt="Pixel Programmer Header" width="100%">
+  <img src="https://media.giphy.com/media/L1R1tvI9sv3y0/giphy.gif" alt="Pixel Programmer Header" width="100%">
 </p>
 
 # Hi 👋, I'm Soham

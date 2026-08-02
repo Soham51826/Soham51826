@@ -4,7 +4,9 @@
 - 🔭 **Currently working on:** Full-stack web apps (React, Python, Supabase) and Android development using Java & SQLite.
 - 🎓 **Education:** Engineering Student specializing in Computer Engineering / IT.
 - ⚡ **Interests:** Virtual Reality / XR Development (Unity Engine), Database Systems, and Intelligent Automation.
-- 📬 **Reach me:** https://www.linkedin.com/in/soham-kirpekar-9b5037346/
+- 📬 **Reach me:**
+- Linked-In: https://www.linkedin.com/in/soham-kirpekar-9b5037346/
+- Gmail: sohamkirpekar@gmail.com
 
 ---
 

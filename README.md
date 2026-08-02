@@ -5,7 +5,7 @@
 
 - 🔭 **I’m currently learning:** Advanced Web & VR/XR Development
 - 💬 **Ask me about:** Python, Java, React, SQL, Android
-- 📬 **How to reach me:** your.email@example.com
+- 📬 **How to reach me:** sohamkirpekar@gmail.com
 
 ---
 

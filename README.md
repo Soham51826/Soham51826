@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./mario-pixel-art.gif" alt="Mario Pixel Art Header" width="100%">
+  <img src="https://media1.tenor.com/m/rCaIUO0MP-EAAAAd/mario-pixel-art.gif" alt="Mario Pixel Art Header" width="100%">
 </p>
 
 # 💫 About Me:
@@ -19,8 +19,7 @@
 ![](https://streak-stats.demolab.com/?user=Soham51826&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Soham51826&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Soham51826&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

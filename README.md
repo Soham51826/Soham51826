@@ -1,4 +1,9 @@
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Android+%26+Java+Developer;XR+%26+Unity+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
   <img src="https://media1.tenor.com/m/rCaIUO0MP-EAAAAd/mario-pixel-art.gif" alt="Mario Pixel Art Header" width="100%">
 </p>
 
@@ -18,8 +23,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=Soham51826&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Soham51826&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Soham51826&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
